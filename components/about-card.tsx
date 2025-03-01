@@ -25,7 +25,7 @@ export function AboutCard() {
       </CardHeader>
       <CardContent className="space-y-4">
         <p>
-          I'm a passionate cybersecurity expert with over 5 years of experience in penetration testing, 
+          I'm a passionate cybersecurity expert with over 2 years of experience in penetration testing, 
           vulnerability assessment, and security architecture. My mission is to help organizations 
           strengthen their security posture and protect against evolving threats.
         </p>
@@ -36,9 +36,7 @@ export function AboutCard() {
           </h3>
           <ul className="list-disc list-inside space-y-1 text-gray-300">
             <li>Offensive Security Certified Professional (OSCP)</li>
-            <li>Certified Ethical Hacker (CEH)</li>
-            <li>Certified Information Systems Security Professional (CISSP)</li>
-            <li>SANS GIAC Security Essentials (GSEC)</li>
+            <li>eLearnSecurity Junior Penetration Tester (eJPTv2)</li>
           </ul>
         </div>
         
