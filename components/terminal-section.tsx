@@ -11,7 +11,7 @@ export function TerminalSection() {
   const commands = [
   { cmd: "whoami", output: "ramim" },
   { cmd: "cat skills.txt", output: "Penetration Testing\nVulnerability Assessment\nNetwork Security\nMalware Analysis\nIncident Response" },
-  { cmd: "ls certifications/", output: "OSCP.cert\\eJPTv@.cert" }
+  { cmd: "ls certifications/", output: "OSCP.cert\\eJPTv2.cert" }
 ];
 
   
