@@ -20,7 +20,7 @@ export function AboutCard() {
           <Shield className="mr-2 text-red-500" /> About Me
         </CardTitle>
         <CardDescription className="text-gray-400">
-          Cybersecurity Professional & Ethical Hacker
+          A Full-Scholarship Student @ VIT-AP | EJPTv2 Certified | OSCP Aspirant
         </CardDescription>
       </CardHeader>
       <CardContent className="space-y-4">
