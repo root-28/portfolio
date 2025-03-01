@@ -44,14 +44,14 @@ export default function Home() {
         >
           <h1 className="text-4xl md:text-6xl font-bold font-mono mb-4">
             <TerminalText 
-              text="Sajid" 
+              text="Ramim" 
               className="text-red-500"
               speed={150}
             />
           </h1>
           <h2 className="text-xl md:text-2xl font-mono text-gray-300">
             <TerminalText 
-              text="Cybersecurity Professional | Ethical Hacker" 
+              text="Cybersecurity Professional | Red Teamer" 
               speed={50}
             />
           </h2>
