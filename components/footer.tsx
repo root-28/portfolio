@@ -16,7 +16,7 @@ export function Footer() {
           </p>
           
           <p className="mt-4 text-sm text-gray-500">
-            © {new Date().getFullYear()} Sajid. All rights reserved.
+            © {new Date().getFullYear()} Ramim. All rights reserved.
           </p>
         </div>
       </div>
