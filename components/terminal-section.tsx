@@ -9,7 +9,7 @@ export function TerminalSection() {
   const [showOutput, setShowOutput] = useState(false);
   
   const commands = [
-    { cmd: "whoami", output: "Sajid" },
+    { cmd: "whoami", output: "Ramim" },
     { cmd: "cat skills.txt", output: "Penetration Testing\nVulnerability Assessment\nNetwork Security\nMalware Analysis\nIncident Response" },
     { cmd: "ls certifications/", output: "OSCP.cert\nCEH.cert\nCISSP.cert\nSANS_GIAC.cert" }
   ];
